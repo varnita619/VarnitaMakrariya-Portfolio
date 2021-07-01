@@ -129,6 +129,11 @@ nav ul li a{
     border-top-right-radius: 1rem;
 }
 
+.footer .footer-header{
+    font-weight: bold;
+    font-size: large;
+}
+
 .footer .link{
     color: white;
 }
