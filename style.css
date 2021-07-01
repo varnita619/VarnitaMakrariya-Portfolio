@@ -12,7 +12,13 @@ body{
 }
 
 hr{
-    margin: 1.5rem 0rem;
+    margin: 1.5rem 20rem;
+
+}
+
+/* space */
+.margin-md{
+    margin:2rem;
 }
 
 /* container */
@@ -97,6 +103,7 @@ nav ul li a{
 
 .header{
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .header .header-img{
@@ -122,10 +129,16 @@ nav ul li a{
 /* footer */
 
 .footer{
-    background-color: black;
+    background-color: rgb(26, 26, 26);
     padding:2rem 1rem;
     text-align: center;
     color: white;
+    margin-top: 5rem;
+    /* position: fixed;
+    left: 0;
+    bottom: 0;
+    height: auto;
+    width: 100%; */
     border-top-right-radius: 1rem;
 }
 
