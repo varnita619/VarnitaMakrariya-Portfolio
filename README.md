@@ -9,5 +9,6 @@ For now I know:-
 3. JavaScript
 4. React.Js
 5. Node.Js
+6. Git and Github
 
 
