@@ -1,14 +1,9 @@
 # varnita portfolio
 
-Hi, This is my portfolio which is on construction.
+This is my portfolio containing my blogs and projects.
 
-For now I know:-
+Hope you like it.
 
-1. HTML 5
-2. CSS
-3. JavaScript
-4. React.Js
-5. Node.Js
-6. Git and Github
+
 
 
