@@ -107,7 +107,7 @@ nav ul li a{
 }
 
 .header .header-img{
-    max-width: 350px;
+    max-width: 450px;
     display: block;
     margin:auto
 }
@@ -134,11 +134,6 @@ nav ul li a{
     text-align: center;
     color: white;
     margin-top: 5rem;
-    /* position: fixed;
-    left: 0;
-    bottom: 0;
-    height: auto;
-    width: 100%; */
     border-top-right-radius: 1rem;
 }
 
